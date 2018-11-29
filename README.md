@@ -1,2 +1,2 @@
-# Node.js program that connect with github api
+# GithubApiConnect
 node.js program that connect with github API
